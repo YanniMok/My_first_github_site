@@ -38,12 +38,12 @@ main img {
     max-width: 100%;
     height: auto;
     display: block;
-    margin: o20px 0;
+    margin: 20px 0;
 }
 
 footer {
     background-color: #333;
-    collor: white;
+    color: white;
     text-align: center;
     padding: 10px;
     position: fixed;
